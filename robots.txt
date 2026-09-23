@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xn--thunder-tt5w4d.com/sitemap.xml
